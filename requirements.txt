@@ -1,0 +1,10 @@
+torch==2.3.0
+torchvision==0.18.0
+numpy==1.26.4
+matplotlib>=3.7
+pandas>=2.0
+h5py>=3.8
+Pillow>=10
+pyarrow>=14
+POT>=0.9
+tqdm>=4

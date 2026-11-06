@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper or thesis when using this code."
+type: software
+title: "Federated Logic Gate Networks via Boolean Feature Selection"
+authors:
+  - family-names: Kunze
+    given-names: Felix
+  - family-names: Di Maio
+    given-names: Antonio
+repository-code: "https://github.com/ediamondlabs/FBFS"
+license: MIT

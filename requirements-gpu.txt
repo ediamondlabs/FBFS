@@ -1,0 +1,2 @@
+# Install a GPU/driver-compatible PyTorch and torchvision pair first.
+torchlogix==0.1.1
